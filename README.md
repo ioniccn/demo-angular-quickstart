@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
-## Quick Start教程
+## Quick Start 教程
 ### 安装开发环境
 假设你已经安装了Node.js 
 
@@ -11,8 +11,19 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ```
 npm install -g @angular/cli
 ```
+### 创建一个新项目
+```
+Create a new project
+```
+### 启动服务
+```
+cd my-app
+ng serve --open
+```
 
-#本项目运行指南
+
+
+# 本项目运行指南
 
 ## Development server
 
