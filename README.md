@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Quick Start教程
 ### 安装开发环境
-首先肯定要安装Node.js 
+假设你已经安装了Node.js 
 
 安装Angular CLI
 
