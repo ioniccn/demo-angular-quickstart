@@ -2,6 +2,18 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
+## Quick Start教程
+### 安装开发环境
+首先肯定要安装Node.js 
+
+安装Angular CLI
+
+```
+npm install -g @angular/cli
+```
+
+#本项目运行指南
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
